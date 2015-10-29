@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<row num="0">
+		<col num="0">blue</col>
+		<col num="1">red</col>
+		<col num="2">blue</col>
+		<col num="3">red</col>
+		<col num="4">blue</col>
+	</row>
+	<row num="1">
+		<col num="0">green</col>
+		<col num="1">yellow</col>
+		<col num="2">green</col>
+		<col num="3">yellow</col>
+		<col num="4">green</col>
+	</row>
+	<row num="2">
+		<col num="0">red</col>
+		<col num="1">blue</col>
+		<col num="2">red</col>
+		<col num="3">blue</col>
+		<col num="4">red</col>
+	</row>
+	<row num="3">
+		<col num="0">yellow</col>
+		<col num="1">green</col>
+		<col num="2">yellow</col>
+		<col num="3">green</col>
+		<col num="4">yellow</col>
+	</row>
+</map>

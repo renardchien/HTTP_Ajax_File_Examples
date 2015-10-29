@@ -1,0 +1,5 @@
+{
+    "example": "json",
+    "myNum": 7,
+    "myArray": [1,2,3,"Cats"]
+}
